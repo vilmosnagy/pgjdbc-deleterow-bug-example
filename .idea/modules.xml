@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pgjdbc-deleterow-bug-example.iml" filepath="$PROJECT_DIR$/.idea/modules/pgjdbc-deleterow-bug-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pgjdbc-deleterow-bug-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pgjdbc-deleterow-bug-example_main.iml" group="pgjdbc-deleterow-bug-example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pgjdbc-deleterow-bug-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pgjdbc-deleterow-bug-example_test.iml" group="pgjdbc-deleterow-bug-example" />
+    </modules>
+  </component>
+</project>
